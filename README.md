@@ -1,2 +1,4 @@
-# python-crash-course
-Python Crash Course
+# Python Crash Course
+
+A repository that contains building blocks of Python language.
+
